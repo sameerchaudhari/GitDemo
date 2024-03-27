@@ -11,7 +11,7 @@ public static void main(String[] args) {
 	
 	str3 = str1.concat(str2);
 	
-	System.out.println(str3);
+	System.out.println("Concatenated String is :" + str3);
 }
 
 }
